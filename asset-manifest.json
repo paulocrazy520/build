@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8421de05.css",
-    "main.js": "/static/js/main.e3ee5343.js",
+    "main.css": "/static/css/main.80a3ee30.css",
+    "main.js": "/static/js/main.98c08f8e.js",
     "static/media/hot.gif": "/static/media/hot.f6201bc976a6d35c8008.gif",
+    "static/media/pose.png": "/static/media/pose.107e8452da1b66026073.png",
     "static/media/box.png": "/static/media/box.6e0827f9ac59c8641bd0.png",
     "static/media/unfocused-wallpaper.png": "/static/media/unfocused-wallpaper.64a53bd3474700935dfa.png",
     "static/media/second-background.png": "/static/media/second-background.93bc0f11f56e087de5d8.png",
@@ -20,7 +21,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.8421de05.css",
-    "static/js/main.e3ee5343.js"
+    "static/css/main.80a3ee30.css",
+    "static/js/main.98c08f8e.js"
   ]
 }
